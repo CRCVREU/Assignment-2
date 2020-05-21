@@ -1,2 +1,2 @@
-# Assignment-2
+# AssignmentTwo
 UCF 101 Human Action Recognition with PyTorch
